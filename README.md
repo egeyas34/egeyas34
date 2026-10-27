@@ -26,16 +26,15 @@ Most people juggle one app for food, another for workouts, another for sleep and
 
 ## 📊 Datrix: an AI data analyst
 
-*Code is private*
+*Prototype, built in two days · code is private*
 
-Upload a CSV or Excel file and get what a data analyst would hand you: summary statistics and tests, charts, a write-up you can read in a minute, and a report you can send.
+Upload a CSV or Excel file and get what a data analyst would hand you: a profile of the data, the findings in plain English, the technical detail behind them, and a report you can send.
 
-- A Python API computes the statistics with **pandas** and **SciPy**, then **Claude** writes the findings twice: once in plain English and once with the technical detail.
-- Interactive charts, plus a chat panel for follow-up questions about your data.
-- One-click export to **PDF** or **PowerPoint**.
+- A Python API profiles the data with **pandas** (descriptive statistics, correlations, skewness, missing values and duplicates), then **Claude** writes the findings twice: once in plain English and once with the technical detail.
+- The API also answers follow-up questions about a dataset and builds **PDF** and **PowerPoint** reports with the sections you choose.
 - Accounts, projects and file storage on Supabase; the API is deployed on Railway.
 
-`React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts` `FastAPI` `pandas` `SciPy` `Claude API` `Supabase` `Railway`
+`React` `TypeScript` `Tailwind CSS` `shadcn/ui` `FastAPI` `pandas` `Claude API` `Supabase` `Railway`
 
 ## 🗓 Hub: one app for my whole year
 
