@@ -24,18 +24,6 @@ Most people juggle one app for food, another for workouts, another for sleep and
 
 `React Native` `TypeScript` `Expo` `Apple Watch` `Next.js` `Supabase` `Meta Ads` `Apple Ads`
 
-## 📊 Datrix: an AI data analyst
-
-*Prototype, built in two days · code is private*
-
-Upload a CSV or Excel file and get what a data analyst would hand you: a profile of the data, the findings in plain English, the technical detail behind them, and a report you can send.
-
-- A Python API profiles the data with **pandas** (descriptive statistics, correlations, skewness, missing values and duplicates), then **Claude** writes the findings twice: once in plain English and once with the technical detail.
-- The API also answers follow-up questions about a dataset and builds **PDF** and **PowerPoint** reports with the sections you choose.
-- Accounts, projects and file storage on Supabase; the API is deployed on Railway.
-
-`React` `TypeScript` `Tailwind CSS` `shadcn/ui` `FastAPI` `pandas` `Claude API` `Supabase` `Railway`
-
 ## 🗓 Hub: one app for my whole year
 
 A personal planning and study app I designed and built for myself.
@@ -75,16 +63,13 @@ A project management web app with gamification, built by a team of six in first 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Data, infrastructure and AI**
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API_&_Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
 
 **Product:** product strategy · UX design · user flows · prototyping · App Store page design · Meta Ads · Apple Ads
