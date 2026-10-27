@@ -5,7 +5,7 @@
 I love taking an idea the whole way: shaping it, designing the experience, building it, and getting it in front of real users. Right now that's Heala, an AI fitness coach for iPhone and Apple Watch that we launched on the App Store in October 2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ege_Yasayanlar-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/ege-yasayanlar/)
-[![Heala](https://img.shields.io/badge/heala.fit-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heala.fit)
+[![Heala](https://img.shields.io/badge/Website-heala.fit-555555?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://heala.fit)
 [![App Store](https://img.shields.io/badge/App_Store-Download_Heala-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/heala-ai-fitness-coach/id6814499922)
 
 ---
